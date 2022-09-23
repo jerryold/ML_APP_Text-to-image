@@ -16,5 +16,6 @@ tags: ML APP_Text to image
 * Stable Diffusion.ipynb:因為考量到cuda memory,故使用colab進行訊練
 
 ##Demo
+
 https://user-images.githubusercontent.com/12774427/191927761-dd8c4dbe-fba6-45c1-8cf3-554b2d1dc792.mp4
 
